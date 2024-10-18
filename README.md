@@ -1,2 +1,2 @@
 # PDF-Summarizer
-Pdf Summarizer using gemini api 
+Pdf Summarizer using gemini Api
